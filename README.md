@@ -39,7 +39,6 @@ Safety App built using react native.
 <img src="./images/20.jpg" width="180" height="380" />
 <img src="./images/21.jpg" width="180" height="380" />
 <img src="./images/22.jpg" width="180" height="380" />
-<img src="./images/23.jpg" width="180" height="380" />
 </p>
 
 ## Overview
