@@ -3,10 +3,10 @@
 Safety App built using react native.
 
 <p float="left">
-<img src="./images/a.jpg" width="180" height="380" />
-<img src="./images/b.jpg" width="180" height="380" />
-<img src="./images/c.jpg" width="180" height="380" />
-<img src="./images/d.jpg" width="180" height="380" />
+<img src="./images/1.jpg" width="180" height="380" />
+<img src="./images/2.jpg" width="180" height="380" />
+<img src="./images/3.jpg" width="180" height="380" />
+<img src="./images/4.jpg" width="180" height="380" />
 </p>
 
 ## Overview
