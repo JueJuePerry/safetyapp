@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "869696006270",
+    "firebase_url": "https://safetyapp-c0d5d.firebaseio.com",
+    "project_id": "safetyapp-c0d5d",
+    "storage_bucket": "safetyapp-c0d5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869696006270:android:bc308cacc6047d31f7102f",
+        "android_client_info": {
+          "package_name": "com.reactpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869696006270-g7nmfikjrbg2cvehjdhc31d84rscnh0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWJ8xvuW1ub3qrKCXG3iEuPIBK4oBT_RQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869696006270-g7nmfikjrbg2cvehjdhc31d84rscnh0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
